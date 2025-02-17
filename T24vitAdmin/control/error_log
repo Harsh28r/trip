@@ -1,0 +1,125 @@
+[26-Nov-2024 17:02:55 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 5
+[26-Nov-2024 17:02:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/Screenshot 2024-11-26 113751.png): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:02:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpF1Y350&quot; to &quot;uploads/Screenshot 2024-11-26 113751.png&quot; in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:12:18 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/Screenshot 2024-11-26 113751.png): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:12:18 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpH4AhXm&quot; to &quot;uploads/Screenshot 2024-11-26 113751.png&quot; in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:16:17 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/uploads/Screenshot 2024-11-26 113751.png): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:16:17 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpLzFpBw&quot; to &quot;../images/uploads/Screenshot 2024-11-26 113751.png&quot; in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:16:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/uploads/Screenshot 2024-11-26 113751.png): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:16:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpQTzfDn&quot; to &quot;../images/uploads/Screenshot 2024-11-26 113751.png&quot; in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:17:13 Asia/Kolkata] PHP Warning:  move_uploaded_file(../images/uploads/Screenshot 2024-11-26 113751.png): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:17:13 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpfMjJJ8&quot; to &quot;../images/uploads/Screenshot 2024-11-26 113751.png&quot; in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 29
+[26-Nov-2024 17:17:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hotel_name' in 'field list' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:47
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(47): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 47
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Warning:  Undefined variable $vendor_uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 43
+[26-Nov-2024 17:53:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 17:53:13')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:45
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(45): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 45
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Warning:  Undefined variable $vendor_uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 43
+[26-Nov-2024 18:00:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:00:30')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:45
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(45): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 45
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 4
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Warning:  Undefined variable $vendor_uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 43
+[26-Nov-2024 18:01:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:01:22')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:45
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(45): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 45
+[26-Nov-2024 18:03:09 Asia/Kolkata] PHP Warning:  Undefined array key "uid" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:03:09 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 36
+[26-Nov-2024 18:03:09 Asia/Kolkata] PHP Warning:  Undefined variable $vendor_id in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 43
+[26-Nov-2024 18:03:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:03:09')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:45
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(45): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 45
+[26-Nov-2024 18:03:45 Asia/Kolkata] PHP Warning:  Undefined variable $vendor_id in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 42
+[26-Nov-2024 18:03:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:03:45')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:44
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(44): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 44
+[26-Nov-2024 18:04:32 Asia/Kolkata] PHP Warning:  Undefined array key "room_type" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 12
+[26-Nov-2024 18:04:32 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 12
+[26-Nov-2024 18:04:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:04:32')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:44
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(44): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 44
+[26-Nov-2024 18:06:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2024-11-26 18:06:26')' at line 2 in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:44
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(44): mysqli->query('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 44
+[26-Nov-2024 19:04:51 Asia/Kolkata] PHP Warning:  Undefined variable $uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 95
+[26-Nov-2024 19:04:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 104
+[26-Nov-2024 19:04:51 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 106
+[26-Nov-2024 19:04:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:109
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(109): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 109
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Warning:  Undefined array key "vendor_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Warning:  Undefined variable $uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 96
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 104
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 106
+[26-Nov-2024 19:22:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:109
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(109): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 109
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Warning:  Undefined array key "vendor_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Warning:  Undefined variable $uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 96
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 104
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 106
+[26-Nov-2024 19:48:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:109
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(109): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 109
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Warning:  Undefined array key "vendor_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 69
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Warning:  Undefined variable $uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 96
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 104
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 106
+[26-Nov-2024 19:51:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:109
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(109): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 109
+[26-Nov-2024 19:52:11 Asia/Kolkata] PHP Warning:  Undefined variable $uid in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 96
+[26-Nov-2024 19:52:11 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 104
+[26-Nov-2024 19:52:11 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 106
+[26-Nov-2024 19:52:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:109
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(109): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 109
+[26-Nov-2024 19:52:38 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 103
+[26-Nov-2024 19:52:38 Asia/Kolkata] PHP Warning:  Undefined array key "map" in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 105
+[26-Nov-2024 19:52:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php:108
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php(108): mysqli->query('update service_...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/T24vitAdmin/control/add-rooms-form.php on line 108

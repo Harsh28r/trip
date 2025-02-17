@@ -1,0 +1,20 @@
+RewriteEngine On
+RewriteBase /trip24/trip/
+
+# Link 1: Search with location and other parameters
+RewriteRule ^search(?:/([^/]+))?(?:/location/([^/]+))?(?:/duration/([^/]+))?(?:/vehicle/([^/]+))?(?:/price/([^/]+))?/?$ index.php?search=$1&location=$2&duration=$3&vehicle=$4&price=$5 [L,QSA]
+
+# Link 2: Booking details
+RewriteRule ^booking/([^/]+)/([^/]+)/?$ booking.php?name=$1&id=$2 [L,QSA]
+
+# Ensure direct access to the booking.php page still works
+RewriteRule ^booking\.php$ booking.php [L,QSA]
+
+# Optional: Redirect to the main index page if accessed incorrectly
+RewriteRule ^index\.php$ index.php [L,QSA]
+
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+)$ $1.php [L,QSA]

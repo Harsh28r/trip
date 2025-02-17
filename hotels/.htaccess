@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /trip24/
+
+# Check if request is NOT an actual file or directory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Remove .php from URLs
+RewriteRule ^(booking)$ $1.php [L]
+
+# SEO-friendly URL for hotel booking with parameters
+RewriteRule ^booking/([^/]+)-([^/]+)$ hotels/booking.php?name=$1&id=$2 [L,QSA]

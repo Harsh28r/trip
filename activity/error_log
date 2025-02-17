@@ -1,0 +1,871 @@
+[16-Dec-2024 14:21:40 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:21:50 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:23:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined variable $pickup_date in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 270
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 270
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined variable $dropoff_date in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 273
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 273
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 276
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 288
+[16-Dec-2024 14:25:39 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 291
+[16-Dec-2024 14:26:43 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:26:43 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 282
+[16-Dec-2024 14:26:43 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 285
+[16-Dec-2024 14:27:57 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:27:57 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 284
+[16-Dec-2024 14:27:57 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 287
+[16-Dec-2024 14:29:43 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:29:43 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 284
+[16-Dec-2024 14:29:43 Asia/Kolkata] PHP Warning:  Undefined variable $total_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 287
+[16-Dec-2024 14:30:09 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:30:09 Asia/Kolkata] PHP Warning:  Undefined variable $total_cost in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 286
+[16-Dec-2024 14:30:09 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 286
+[16-Dec-2024 14:30:21 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:30:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:31:06 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 83
+[16-Dec-2024 14:41:58 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 84
+[16-Dec-2024 14:47:24 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 84
+[16-Dec-2024 14:47:57 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 84
+[16-Dec-2024 14:51:00 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 85
+[16-Dec-2024 14:52:44 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 85
+[16-Dec-2024 14:52:46 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 85
+[16-Dec-2024 15:35:30 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 15:35:30 Asia/Kolkata] PHP Warning:  Undefined array key "paragliding" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 88
+[16-Dec-2024 15:35:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 88
+[16-Dec-2024 15:56:43 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 15:56:43 Asia/Kolkata] PHP Warning:  Undefined array key "paragliding" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 88
+[16-Dec-2024 15:56:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 88
+[16-Dec-2024 15:58:37 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 15:58:37 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 278
+[16-Dec-2024 15:58:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_person" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 281
+[16-Dec-2024 15:58:37 Asia/Kolkata] PHP Warning:  Undefined array key "duration" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 284
+[16-Dec-2024 15:59:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 15:59:39 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_person" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 281
+[16-Dec-2024 15:59:39 Asia/Kolkata] PHP Warning:  Undefined array key "duration" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 284
+[16-Dec-2024 15:59:48 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 15:59:48 Asia/Kolkata] PHP Warning:  Undefined array key "duration" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 284
+[16-Dec-2024 15:59:55 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 16:00:14 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 16:06:07 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 19:59:52 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 19:59:55 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:16:53 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:18:40 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:18:56 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:19:53 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:20:14 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:20:32 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:20:38 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:21:01 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:21:16 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:28:48 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:28:48 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 294
+[16-Dec-2024 20:29:20 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:29:20 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 294
+[16-Dec-2024 20:35:19 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:35:49 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:36:11 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 20:37:05 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 21:37:40 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 21:54:07 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[16-Dec-2024 22:12:35 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 11:48:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 11:49:02 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 12:36:08 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 12:36:33 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 12:43:06 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 12:43:08 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 13:49:32 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 13:49:33 Asia/Kolkata] PHP Warning:  Undefined array key "user" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 309
+[17-Dec-2024 13:49:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 309
+[17-Dec-2024 13:51:39 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 13:59:46 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 13:59:50 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 14:00:06 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 14:00:08 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 87
+[17-Dec-2024 14:08:26 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 133
+[17-Dec-2024 14:09:34 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 133
+[17-Dec-2024 14:09:40 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 133
+[17-Dec-2024 15:11:36 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 15:24:06 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 15:57:58 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 15:58:06 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 15:58:06 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 16:02:19 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 16:02:19 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 16:02:50 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 16:02:50 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 16:02:54 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:02:54 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:02:54 Asia/Kolkata] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:02:54 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:02:54 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:76
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(76): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:03:17 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:03:17 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:03:17 Asia/Kolkata] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:03:17 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:03:17 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:76
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(76): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:76
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(76): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 10
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:08:20 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:76
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(76): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 76
+[17-Dec-2024 16:09:26 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 11
+[17-Dec-2024 16:09:42 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 11
+[17-Dec-2024 16:10:14 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 15
+[17-Dec-2024 16:10:14 Asia/Kolkata] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 15
+[17-Dec-2024 16:10:14 Asia/Kolkata] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 15
+[17-Dec-2024 16:10:14 Asia/Kolkata] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 81
+[17-Dec-2024 16:10:14 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:81
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(81): mysqli_query(NULL, 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 81
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 154
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:10:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "service_address" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "service_city" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "service_pincode" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "service_city" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "service_pincode" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:13:55 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "service_city" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 155
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "service_pincode" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:13:56 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "service_pincode" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:14:10 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "service_no" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:14:53 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:14:54 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:15:35 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:15:36 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:15:41 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:15:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:15:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:25 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:32 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:33 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 172
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:16:42 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 173
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 183
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:17:18 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 181
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 181
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:17:33 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 181
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 181
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 182
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:17:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:18:28 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 159
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:23:20 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 157
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:28:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:33:22 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:34:00 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 159
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:34:02 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 159
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:51:05 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "service_email" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 158
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:51:18 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:51:41 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 199
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:51:56 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 200
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 209
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:52:24 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 201
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:52:58 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:53:21 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:53:21 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:21 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:21 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:53:21 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 202
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:53:31 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:53:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:53:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:37 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:53:37 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:53:37 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:55:50 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:55:50 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:55:50 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 210
+[17-Dec-2024 16:55:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:55:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 213
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:56:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 214
+[17-Dec-2024 16:56:48 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php:203
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php(203): number_format('15 min')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 203
+[17-Dec-2024 16:57:06 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[17-Dec-2024 16:57:06 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:57:06 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:57:06 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:57:06 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 214
+[17-Dec-2024 16:57:14 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[17-Dec-2024 16:57:14 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:57:14 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:57:14 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:57:14 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 214
+[17-Dec-2024 16:58:27 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:58:27 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:58:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:58:27 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 214
+[17-Dec-2024 16:59:46 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:59:46 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 16:59:46 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 16:59:46 Asia/Kolkata] PHP Warning:  Undefined array key "total" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 214
+[17-Dec-2024 17:00:01 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 17:00:01 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 17:00:01 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:00:12 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 17:00:12 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 211
+[17-Dec-2024 17:00:12 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:00:20 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:01:10 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:01:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`dhcppqyt_trip24`.`activity_booking`, CONSTRAINT `activity_booking_ibfk_2` FOREIGN KEY (`vendor_id`) REFERENCES `vendor` (`id`) ON DELETE CASCADE) in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php:72
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php(72): mysqli_query(Object(mysqli), 'INSERT INTO act...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 72
+[17-Dec-2024 17:04:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`dhcppqyt_trip24`.`activity_booking`, CONSTRAINT `activity_booking_ibfk_2` FOREIGN KEY (`vendor_id`) REFERENCES `vendor` (`id`) ON DELETE CASCADE) in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php:72
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php(72): mysqli_query(Object(mysqli), 'INSERT INTO act...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 72
+[17-Dec-2024 17:04:16 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:09:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`dhcppqyt_trip24`.`activity_booking`, CONSTRAINT `activity_booking_ibfk_2` FOREIGN KEY (`vendor_id`) REFERENCES `vendor` (`id`) ON DELETE CASCADE) in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php:72
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php(72): mysqli_query(Object(mysqli), 'INSERT INTO act...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 72
+[17-Dec-2024 17:11:23 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:15:13 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:15:22 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:15:22 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:15:51 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:16:43 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:16:53 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:16:53 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:17:38 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:17:41 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:19:39 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:21:28 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:01 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:25:01 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:25:48 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:52 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:52 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:53 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:55 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:25:55 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:25:56 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:25:58 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:25:58 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:25:59 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[17-Dec-2024 17:26:00 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 128
+[17-Dec-2024 17:26:00 Asia/Kolkata] PHP Warning:  Undefined array key "activity_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 129
+[17-Dec-2024 17:37:36 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 135
+[17-Dec-2024 17:42:17 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 137
+[17-Dec-2024 17:43:12 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[17-Dec-2024 17:43:14 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 212
+[18-Dec-2024 14:17:14 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 14:17:23 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 14:18:47 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 14:19:33 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 14:19:37 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 14:19:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 204
+[18-Dec-2024 15:10:06 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[18-Dec-2024 15:19:27 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[18-Dec-2024 15:19:44 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[18-Dec-2024 15:20:00 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[19-Dec-2024 15:04:39 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:04:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:04:47 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:04:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:04:58 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:04:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:06:14 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:06:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:08:11 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:08:19 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:08:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:08:36 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[19-Dec-2024 15:09:43 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:09:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:32:05 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 15:32:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 18:41:26 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[19-Dec-2024 18:41:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[20-Dec-2024 17:00:42 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[20-Dec-2024 17:00:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[20-Dec-2024 17:01:43 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[20-Dec-2024 17:01:49 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[07-Jan-2025 17:41:18 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[07-Jan-2025 17:41:18 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[07-Jan-2025 17:41:25 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[07-Jan-2025 17:41:25 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[22-Jan-2025 00:36:30 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[22-Jan-2025 00:36:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[22-Jan-2025 00:42:43 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[22-Jan-2025 00:42:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[23-Jan-2025 13:25:45 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[23-Jan-2025 13:25:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:42:29 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:42:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:43:43 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[24-Jan-2025 14:43:53 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:43:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:43:59 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[24-Jan-2025 14:44:24 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[24-Jan-2025 14:45:05 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[24-Jan-2025 14:45:51 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[24-Jan-2025 14:45:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[27-Jan-2025 14:31:02 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[27-Jan-2025 14:31:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[27-Jan-2025 14:49:58 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[27-Jan-2025 18:41:17 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[27-Jan-2025 18:41:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[27-Jan-2025 18:42:11 Asia/Kolkata] PHP Warning:  Undefined array key "name" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/checkout.php on line 138
+[27-Jan-2025 18:42:22 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[27-Jan-2025 18:42:44 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking-successful.php on line 204
+[27-Jan-2025 18:45:58 Asia/Kolkata] PHP Warning:  Undefined array key "userid" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/all-activity-bookings.php on line 89
+[28-Jan-2025 00:14:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[13-Feb-2025 16:24:13 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[13-Feb-2025 16:24:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 12:59:46 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 12:59:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:02:59 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[15-Feb-2025 13:03:11 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/invoice.php on line 212
+[15-Feb-2025 13:04:58 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:04:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:05:26 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:05:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:05:48 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 13:05:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 16:51:58 Asia/Kolkata] PHP Warning:  Undefined variable $service in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54
+[15-Feb-2025 16:51:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/activity/booking.php on line 54

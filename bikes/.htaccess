@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Redirect to booking with SEO-friendly URL
+RewriteRule ^booking/([^/]+)-([^/]+)-([^/]+)-([^/]+)$ booking.php?bike_brand=$1&bike_model=$2&pickup_location=$3&bike_id=$4 [L,QSA]
+   
+
+# SEO-friendly URL for booking invoice
+RewriteRule ^bikes/booking-invoice/([0-9]+)$ bikes/booking-invoice.php?request_id=$1 [L,QSA]

@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# Link 1: Activity type (paragliding)
+# Exclude specific files like checkout.php or other physical files
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ index.php?activity_type=$1 [L,QSA]
+
+# Link 2: Activity type with fully optional search parameters
+RewriteRule ^([^/]+)/search(?:/([^/]+))?(?:/location/([^/]+))?(?:/duration/([^/]+))?(?:/price/([^/]+))?/?$ index.php?activity_type=$1&search=$2&location=$3&duration=$4&price=$5 [L,QSA]
+
+# Link 3: Booking details
+RewriteRule ^booking/([^/]+)-([0-9]+)/?$ booking.php?name=$1&id=$2 [L,QSA]
+
+RewriteRule ^checkout/?$ checkout.php [L]

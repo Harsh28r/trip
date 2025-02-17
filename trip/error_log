@@ -1,0 +1,352 @@
+[28-Nov-2024 20:14:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u538377175_trip24'@'localhost' (using password: YES) in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php:13
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php(13): mysqli->__construct('localhost', 'u538377175_trip...', 'Trip24@2024', 'u538377175_trip...')
+#1 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/index.php(2): include('/home/dhcppqyt/...')
+#2 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php on line 13
+[28-Nov-2024 20:14:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u538377175_trip24'@'localhost' (using password: YES) in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php:13
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php(13): mysqli->__construct('localhost', 'u538377175_trip...', 'Trip24@2024', 'u538377175_trip...')
+#1 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/index.php(2): include('/home/dhcppqyt/...')
+#2 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php on line 13
+[28-Nov-2024 20:14:37 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u538377175_trip24'@'localhost' (using password: YES) in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php:13
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php(13): mysqli->__construct('localhost', 'u538377175_trip...', 'Trip24@2024', 'u538377175_trip...')
+#1 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/index.php(2): include('/home/dhcppqyt/...')
+#2 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php on line 13
+[29-Jan-2025 12:11:43 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:11:43 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:11:43 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:11:43 UTC] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 8
+[29-Jan-2025 12:11:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:8
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(8): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 8
+[29-Jan-2025 12:13:04 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:13:04 UTC] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:13:04 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 3
+[29-Jan-2025 12:13:04 UTC] PHP Warning:  Undefined variable $conn in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 8
+[29-Jan-2025 12:13:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:8
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(8): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 8
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $vehicle in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 181
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 186
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $brand in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 238
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $model in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 238
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $capacity in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 238
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $banner in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 255
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $image in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 261
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $unit in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 286
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $brand in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 296
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $model in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 296
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $capacity in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 296
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Warning:  Undefined variable $amenities in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 297
+[29-Jan-2025 19:37:42 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:297
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(297): implode()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 297
+[29-Jan-2025 19:40:47 Asia/Kolkata] PHP Warning:  Undefined variable $brand in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:40:47 Asia/Kolkata] PHP Warning:  Undefined variable $model in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:40:47 Asia/Kolkata] PHP Warning:  Undefined variable $capacity in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:40:47 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 432
+[29-Jan-2025 19:41:40 Asia/Kolkata] PHP Warning:  Undefined variable $brand in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:41:40 Asia/Kolkata] PHP Warning:  Undefined variable $model in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:41:40 Asia/Kolkata] PHP Warning:  Undefined variable $capacity in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 231
+[29-Jan-2025 19:41:40 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 432
+[29-Jan-2025 19:44:34 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 436
+[29-Jan-2025 19:46:14 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 436
+[29-Jan-2025 19:46:26 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 436
+[29-Jan-2025 19:47:46 Asia/Kolkata] PHP Warning:  Undefined variable $vehicle in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 302
+[29-Jan-2025 19:47:46 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 437
+[29-Jan-2025 19:49:07 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 437
+[29-Jan-2025 19:49:41 Asia/Kolkata] PHP Warning:  Undefined variable $vehicle in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 207
+[29-Jan-2025 19:53:45 Asia/Kolkata] PHP Warning:  Undefined variable $vehicle in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 207
+[29-Jan-2025 20:04:02 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 437
+[29-Jan-2025 20:11:40 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 425
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 428
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 434
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 437
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Warning:  Undefined array key "bike_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 459
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 459
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 461
+[29-Jan-2025 20:12:22 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 462
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 426
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 429
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 435
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 438
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Warning:  Undefined array key "bike_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 461
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 461
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 462
+[29-Jan-2025 20:15:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 463
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 426
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 429
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 435
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 438
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Warning:  Undefined array key "bike_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 460
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 461
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 461
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 462
+[29-Jan-2025 20:16:38 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 463
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 442
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 452
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 459
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 459
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 466
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 466
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Warning:  Undefined variable $price in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 472
+[29-Jan-2025 20:26:00 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 472
+[29-Jan-2025 14:59:32 UTC] PHP Parse error:  Unclosed '{' on line 105 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 559
+[29-Jan-2025 15:01:10 UTC] PHP Parse error:  Unclosed '{' on line 106 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 560
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Warning:  Undefined variable $trip_id in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 99
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 111
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 480
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:32:33 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 493
+[29-Jan-2025 20:33:19 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:33:19 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:33:55 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:33:55 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:34:20 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:34:20 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:37:08 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[29-Jan-2025 20:37:30 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[29-Jan-2025 20:37:30 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[30-Jan-2025 16:47:39 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[31-Jan-2025 20:45:44 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[31-Jan-2025 20:50:39 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[31-Jan-2025 20:50:39 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[31-Jan-2025 20:51:01 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[31-Jan-2025 20:51:01 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[01-Feb-2025 01:38:32 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 01:40:24 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bike" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[01-Feb-2025 01:40:24 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 487
+[01-Feb-2025 01:40:30 Asia/Kolkata] PHP Warning:  Undefined array key "trip_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 55
+[01-Feb-2025 01:40:30 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 55
+[01-Feb-2025 01:40:30 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 56
+[01-Feb-2025 01:40:30 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 56
+[01-Feb-2025 01:40:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:68
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(68): mysqli_query()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 68
+[01-Feb-2025 01:42:24 Asia/Kolkata] PHP Warning:  Undefined array key "trip_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 55
+[01-Feb-2025 01:42:24 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 55
+[01-Feb-2025 01:42:24 Asia/Kolkata] PHP Warning:  Undefined array key "vehicle" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 56
+[01-Feb-2025 01:42:24 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 56
+[01-Feb-2025 01:42:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:68
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(68): mysqli_query()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 68
+[01-Feb-2025 01:42:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php:68
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php(68): mysqli_query()
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 68
+[01-Feb-2025 01:45:51 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 111
+[01-Feb-2025 01:47:51 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 01:51:10 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 01:51:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 462
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 01:57:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 01:58:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 01:59:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:00:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:02:41 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[31-Jan-2025 20:35:04 UTC] PHP Parse error:  Unclosed '{' on line 473 in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 577
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:07:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 81
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 148
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 149
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 151
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 152
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 168
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:09:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "tour_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 166
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:11:50 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 167
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "start_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 176
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "end_date" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 177
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "brand" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "model" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "year" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "capacity" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 194
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 195
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 196
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:13:36 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:11 Asia/Kolkata] PHP Warning:  Undefined array key "total_cost" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 197
+[01-Feb-2025 02:17:11 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:11 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:11 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:47 Asia/Kolkata] PHP Warning:  Undefined array key "no_of_bikes" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:47 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 02:17:47 Asia/Kolkata] PHP Warning:  Undefined variable $no_of_days in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking-successful.php on line 204
+[01-Feb-2025 09:50:48 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 13:25:13 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 13:25:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 113
+[01-Feb-2025 13:25:32 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 499
+[01-Feb-2025 13:25:32 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/checkout.php on line 512
+[01-Feb-2025 13:25:47 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 13:25:48 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[01-Feb-2025 21:11:15 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[03-Feb-2025 01:35:13 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 315
+[03-Feb-2025 01:35:55 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 316
+[03-Feb-2025 01:36:00 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/trip/booking.php on line 316

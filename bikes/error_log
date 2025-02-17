@@ -1,0 +1,544 @@
+[28-Nov-2024 20:15:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u538377175_trip24'@'localhost' (using password: YES) in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php:13
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php(13): mysqli->__construct('localhost', 'u538377175_trip...', 'Trip24@2024', 'u538377175_trip...')
+#1 /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/index.php(2): include('/home/dhcppqyt/...')
+#2 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/tr24conn.php on line 13
+[28-Nov-2024 20:16:52 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/header.php on line 52
+[07-Dec-2024 14:54:53 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking.php on line 266
+[07-Dec-2024 14:55:59 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking.php on line 266
+[07-Dec-2024 14:58:48 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 109
+[07-Dec-2024 14:58:52 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 109
+[07-Dec-2024 14:58:53 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 109
+[07-Dec-2024 14:59:06 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 109
+[07-Dec-2024 15:10:05 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking.php on line 266
+[07-Dec-2024 15:48:33 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking.php on line 266
+[07-Dec-2024 21:52:23 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:26 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:41 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:41 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:52:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 117
+[07-Dec-2024 21:56:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 120
+[07-Dec-2024 21:56:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 120
+[07-Dec-2024 21:56:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 120
+[07-Dec-2024 21:56:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 120
+[07-Dec-2024 21:57:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php:52) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 115
+[07-Dec-2024 22:23:03 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 388
+[07-Dec-2024 22:23:03 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 388
+[07-Dec-2024 22:23:11 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 388
+[07-Dec-2024 22:23:11 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 388
+[07-Dec-2024 22:24:03 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 389
+[07-Dec-2024 22:24:03 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 389
+[07-Dec-2024 22:38:41 Asia/Kolkata] PHP Warning:  Undefined array key "user_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 389
+[07-Dec-2024 22:38:41 Asia/Kolkata] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/checkout.php on line 389
+[08-Dec-2024 11:20:11 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 111
+[08-Dec-2024 11:20:12 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 111
+[08-Dec-2024 11:20:16 Asia/Kolkata] PHP Warning:  Undefined variable $bike_id in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 111
+[08-Dec-2024 12:07:21 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 11
+[08-Dec-2024 12:07:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:1) in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 26
+[08-Dec-2024 12:09:17 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 11
+[08-Dec-2024 12:09:46 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 11
+[08-Dec-2024 12:11:31 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 11
+[08-Dec-2024 12:11:51 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 11
+[08-Dec-2024 12:13:02 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 6
+[08-Dec-2024 12:13:53 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 6
+[08-Dec-2024 12:20:55 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 12
+[08-Dec-2024 12:35:31 Asia/Kolkata] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 12
+[08-Dec-2024 16:35:25 Asia/Kolkata] PHP Warning:  Undefined array key "bike_request_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 195
+[08-Dec-2024 17:47:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dhcppqyt_trip24.service_bike' doesn't exist in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:135
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php(135): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 135
+[08-Dec-2024 17:47:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dhcppqyt_trip24.service_bike' doesn't exist in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:135
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php(135): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 135
+[08-Dec-2024 17:47:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dhcppqyt_trip24.service_bike' doesn't exist in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:135
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php(135): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 135
+[08-Dec-2024 17:48:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dhcppqyt_trip24.user' doesn't exist in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:151
+Stack trace:
+#0 /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php(151): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 151
+[08-Dec-2024 18:13:28 Asia/Kolkata] PHP Warning:  Undefined array key "modal" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 245
+[08-Dec-2024 18:16:02 Asia/Kolkata] PHP Warning:  Undefined array key "price" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 247
+[08-Dec-2024 18:40:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php:260
+Stack trace:
+#0 {main}
+  thrown in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-successful.php on line 260
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 67
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 67
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 67
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:00:59 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:01:13 Asia/Kolkata] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:01:13 Asia/Kolkata] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:01:13 Asia/Kolkata] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 207
+[08-Dec-2024 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "pickup_on" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 116
+[08-Dec-2024 20:29:47 Asia/Kolkata] PHP Warning:  Undefined array key "pickup_on" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 116
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 74
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 81
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 130
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 148
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 151
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 166
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:35:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 207
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 74
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 81
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 130
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 148
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 151
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 166
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:36:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 207
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 74
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 81
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 130
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 148
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 151
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 166
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:36:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 207
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 67
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 74
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 81
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 130
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 148
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 151
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 166
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:36:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 207
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 75
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 82
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 131
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 153
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 169
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 206
+[08-Dec-2024 20:37:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 208
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 75
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 82
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 131
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 153
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 169
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 206
+[08-Dec-2024 20:37:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 208
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 68
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 75
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 82
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 131
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 150
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 153
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 169
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 178
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 206
+[08-Dec-2024 20:37:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 208
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Undefined variable $GET in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 2
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 74
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 81
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 130
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 148
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 149
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 151
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 152
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 166
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 167
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 168
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 176
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 177
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 194
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 195
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 196
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 197
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 204
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 205
+[08-Dec-2024 20:38:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 207
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:47:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:47:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:48:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:48:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:49:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:50:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 79
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 86
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 124
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 142
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 143
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 145
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 146
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 160
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 161
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 162
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 170
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Deprecated:  DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 171
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 188
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 189
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 190
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 191
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 198
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 199
+[08-Dec-2024 20:50:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 201
+[16-Dec-2024 20:11:01 Asia/Kolkata] PHP Warning:  Undefined array key "bike_request_id" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/booking-invoice.php on line 128
+[20-Dec-2024 16:57:55 Asia/Kolkata] PHP Warning:  Undefined array key "userid" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 82
+[20-Dec-2024 16:57:59 Asia/Kolkata] PHP Warning:  Undefined array key "userid" in /home/dhcppqyt/work.prcptnvt.site/trip24/bikes/all-booking.php on line 82
